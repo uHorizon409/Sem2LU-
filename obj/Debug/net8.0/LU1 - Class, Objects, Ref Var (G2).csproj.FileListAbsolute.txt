@@ -1,0 +1,14 @@
+C:\Users\user\Documents\PROG6212\PROG6212-Group1-2024-main\LU1 - Class, Objects, Ref Var (G2)\bin\Debug\net8.0\LU1 - Class, Objects, Ref Var (G2).exe
+C:\Users\user\Documents\PROG6212\PROG6212-Group1-2024-main\LU1 - Class, Objects, Ref Var (G2)\bin\Debug\net8.0\LU1 - Class, Objects, Ref Var (G2).deps.json
+C:\Users\user\Documents\PROG6212\PROG6212-Group1-2024-main\LU1 - Class, Objects, Ref Var (G2)\bin\Debug\net8.0\LU1 - Class, Objects, Ref Var (G2).runtimeconfig.json
+C:\Users\user\Documents\PROG6212\PROG6212-Group1-2024-main\LU1 - Class, Objects, Ref Var (G2)\bin\Debug\net8.0\LU1 - Class, Objects, Ref Var (G2).dll
+C:\Users\user\Documents\PROG6212\PROG6212-Group1-2024-main\LU1 - Class, Objects, Ref Var (G2)\bin\Debug\net8.0\LU1 - Class, Objects, Ref Var (G2).pdb
+C:\Users\user\Documents\PROG6212\PROG6212-Group1-2024-main\LU1 - Class, Objects, Ref Var (G2)\obj\Debug\net8.0\LU1 - Class, Objects, Ref Var (G2).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\PROG6212\PROG6212-Group1-2024-main\LU1 - Class, Objects, Ref Var (G2)\obj\Debug\net8.0\LU1 - Class, Objects, Ref Var (G2).AssemblyInfoInputs.cache
+C:\Users\user\Documents\PROG6212\PROG6212-Group1-2024-main\LU1 - Class, Objects, Ref Var (G2)\obj\Debug\net8.0\LU1 - Class, Objects, Ref Var (G2).AssemblyInfo.cs
+C:\Users\user\Documents\PROG6212\PROG6212-Group1-2024-main\LU1 - Class, Objects, Ref Var (G2)\obj\Debug\net8.0\LU1 - Class, Objects, Ref Var (G2).csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\PROG6212\PROG6212-Group1-2024-main\LU1 - Class, Objects, Ref Var (G2)\obj\Debug\net8.0\LU1 - Class, Objects, Ref Var (G2).dll
+C:\Users\user\Documents\PROG6212\PROG6212-Group1-2024-main\LU1 - Class, Objects, Ref Var (G2)\obj\Debug\net8.0\refint\LU1 - Class, Objects, Ref Var (G2).dll
+C:\Users\user\Documents\PROG6212\PROG6212-Group1-2024-main\LU1 - Class, Objects, Ref Var (G2)\obj\Debug\net8.0\LU1 - Class, Objects, Ref Var (G2).pdb
+C:\Users\user\Documents\PROG6212\PROG6212-Group1-2024-main\LU1 - Class, Objects, Ref Var (G2)\obj\Debug\net8.0\LU1 - Class, Objects, Ref Var (G2).genruntimeconfig.cache
+C:\Users\user\Documents\PROG6212\PROG6212-Group1-2024-main\LU1 - Class, Objects, Ref Var (G2)\obj\Debug\net8.0\ref\LU1 - Class, Objects, Ref Var (G2).dll
