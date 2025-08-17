@@ -1,0 +1,6 @@
+Task1  | True
+Task2  | True
+Task3  | False
+Task4  | True
+Task1  | True
+Task5 | False

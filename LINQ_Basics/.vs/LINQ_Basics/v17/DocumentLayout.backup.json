@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\PROG6212\\PROG6212-Group1-2024-main\\LINQ_Basics\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{926898CB-4723-44A7-A56C-4A895FA86EB9}|LINQ_Basics\\LINQ_Basics.csproj|c:\\users\\user\\documents\\prog6212\\prog6212-group1-2024-main\\linq_basics\\linq_basics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{926898CB-4723-44A7-A56C-4A895FA86EB9}|LINQ_Basics\\LINQ_Basics.csproj|solutionrelative:linq_basics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{926898CB-4723-44A7-A56C-4A895FA86EB9}|LINQ_Basics\\LINQ_Basics.csproj|c:\\users\\user\\documents\\prog6212\\prog6212-group1-2024-main\\linq_basics\\linq_basics\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{926898CB-4723-44A7-A56C-4A895FA86EB9}|LINQ_Basics\\LINQ_Basics.csproj|solutionrelative:linq_basics\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\PROG6212\\PROG6212-Group1-2024-main\\LINQ_Basics\\LINQ_Basics\\Product.cs",
+              "RelativeDocumentMoniker": "LINQ_Basics\\Product.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\PROG6212\\PROG6212-Group1-2024-main\\LINQ_Basics\\LINQ_Basics\\Product.cs",
+              "RelativeToolTip": "LINQ_Basics\\Product.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T14:15:32.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\PROG6212\\PROG6212-Group1-2024-main\\LINQ_Basics\\LINQ_Basics\\Program.cs",
+              "RelativeDocumentMoniker": "LINQ_Basics\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\PROG6212\\PROG6212-Group1-2024-main\\LINQ_Basics\\LINQ_Basics\\Program.cs*",
+              "RelativeToolTip": "LINQ_Basics\\Program.cs*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T14:00:59.583Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
