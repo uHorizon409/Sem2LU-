@@ -1,0 +1,14 @@
+C:\Users\user\Documents\Visual Studio 2022\Projects\C#Pr066212\EmployeeApp_Indexer\EmployeeApp_Indexer\bin\Debug\net8.0\EmployeeApp_Indexer.exe
+C:\Users\user\Documents\Visual Studio 2022\Projects\C#Pr066212\EmployeeApp_Indexer\EmployeeApp_Indexer\bin\Debug\net8.0\EmployeeApp_Indexer.deps.json
+C:\Users\user\Documents\Visual Studio 2022\Projects\C#Pr066212\EmployeeApp_Indexer\EmployeeApp_Indexer\bin\Debug\net8.0\EmployeeApp_Indexer.runtimeconfig.json
+C:\Users\user\Documents\Visual Studio 2022\Projects\C#Pr066212\EmployeeApp_Indexer\EmployeeApp_Indexer\bin\Debug\net8.0\EmployeeApp_Indexer.dll
+C:\Users\user\Documents\Visual Studio 2022\Projects\C#Pr066212\EmployeeApp_Indexer\EmployeeApp_Indexer\bin\Debug\net8.0\EmployeeApp_Indexer.pdb
+C:\Users\user\Documents\Visual Studio 2022\Projects\C#Pr066212\EmployeeApp_Indexer\EmployeeApp_Indexer\obj\Debug\net8.0\EmployeeApp_Indexer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Visual Studio 2022\Projects\C#Pr066212\EmployeeApp_Indexer\EmployeeApp_Indexer\obj\Debug\net8.0\EmployeeApp_Indexer.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Visual Studio 2022\Projects\C#Pr066212\EmployeeApp_Indexer\EmployeeApp_Indexer\obj\Debug\net8.0\EmployeeApp_Indexer.AssemblyInfo.cs
+C:\Users\user\Documents\Visual Studio 2022\Projects\C#Pr066212\EmployeeApp_Indexer\EmployeeApp_Indexer\obj\Debug\net8.0\EmployeeApp_Indexer.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Visual Studio 2022\Projects\C#Pr066212\EmployeeApp_Indexer\EmployeeApp_Indexer\obj\Debug\net8.0\EmployeeApp_Indexer.dll
+C:\Users\user\Documents\Visual Studio 2022\Projects\C#Pr066212\EmployeeApp_Indexer\EmployeeApp_Indexer\obj\Debug\net8.0\refint\EmployeeApp_Indexer.dll
+C:\Users\user\Documents\Visual Studio 2022\Projects\C#Pr066212\EmployeeApp_Indexer\EmployeeApp_Indexer\obj\Debug\net8.0\EmployeeApp_Indexer.pdb
+C:\Users\user\Documents\Visual Studio 2022\Projects\C#Pr066212\EmployeeApp_Indexer\EmployeeApp_Indexer\obj\Debug\net8.0\EmployeeApp_Indexer.genruntimeconfig.cache
+C:\Users\user\Documents\Visual Studio 2022\Projects\C#Pr066212\EmployeeApp_Indexer\EmployeeApp_Indexer\obj\Debug\net8.0\ref\EmployeeApp_Indexer.dll
