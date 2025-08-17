@@ -1,0 +1,14 @@
+C:\Users\user\Documents\PROG6212\PROG6212-Group1-2024-main\LU1_Shape_App_Dynamic_Anon_OperatorOverloading_Gr1\bin\Debug\net8.0\LU1_Shape_App_Dynamic_Anon_OperatorOverloading_Gr1.exe
+C:\Users\user\Documents\PROG6212\PROG6212-Group1-2024-main\LU1_Shape_App_Dynamic_Anon_OperatorOverloading_Gr1\bin\Debug\net8.0\LU1_Shape_App_Dynamic_Anon_OperatorOverloading_Gr1.deps.json
+C:\Users\user\Documents\PROG6212\PROG6212-Group1-2024-main\LU1_Shape_App_Dynamic_Anon_OperatorOverloading_Gr1\bin\Debug\net8.0\LU1_Shape_App_Dynamic_Anon_OperatorOverloading_Gr1.runtimeconfig.json
+C:\Users\user\Documents\PROG6212\PROG6212-Group1-2024-main\LU1_Shape_App_Dynamic_Anon_OperatorOverloading_Gr1\bin\Debug\net8.0\LU1_Shape_App_Dynamic_Anon_OperatorOverloading_Gr1.dll
+C:\Users\user\Documents\PROG6212\PROG6212-Group1-2024-main\LU1_Shape_App_Dynamic_Anon_OperatorOverloading_Gr1\bin\Debug\net8.0\LU1_Shape_App_Dynamic_Anon_OperatorOverloading_Gr1.pdb
+C:\Users\user\Documents\PROG6212\PROG6212-Group1-2024-main\LU1_Shape_App_Dynamic_Anon_OperatorOverloading_Gr1\obj\Debug\net8.0\LU1_Shape_App_Dynamic_Anon_OperatorOverloading_Gr1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\PROG6212\PROG6212-Group1-2024-main\LU1_Shape_App_Dynamic_Anon_OperatorOverloading_Gr1\obj\Debug\net8.0\LU1_Shape_App_Dynamic_Anon_OperatorOverloading_Gr1.AssemblyInfoInputs.cache
+C:\Users\user\Documents\PROG6212\PROG6212-Group1-2024-main\LU1_Shape_App_Dynamic_Anon_OperatorOverloading_Gr1\obj\Debug\net8.0\LU1_Shape_App_Dynamic_Anon_OperatorOverloading_Gr1.AssemblyInfo.cs
+C:\Users\user\Documents\PROG6212\PROG6212-Group1-2024-main\LU1_Shape_App_Dynamic_Anon_OperatorOverloading_Gr1\obj\Debug\net8.0\LU1_Shape_App_Dynamic_Anon_OperatorOverloading_Gr1.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\PROG6212\PROG6212-Group1-2024-main\LU1_Shape_App_Dynamic_Anon_OperatorOverloading_Gr1\obj\Debug\net8.0\LU1_Shape_App_Dynamic_Anon_OperatorOverloading_Gr1.dll
+C:\Users\user\Documents\PROG6212\PROG6212-Group1-2024-main\LU1_Shape_App_Dynamic_Anon_OperatorOverloading_Gr1\obj\Debug\net8.0\refint\LU1_Shape_App_Dynamic_Anon_OperatorOverloading_Gr1.dll
+C:\Users\user\Documents\PROG6212\PROG6212-Group1-2024-main\LU1_Shape_App_Dynamic_Anon_OperatorOverloading_Gr1\obj\Debug\net8.0\LU1_Shape_App_Dynamic_Anon_OperatorOverloading_Gr1.pdb
+C:\Users\user\Documents\PROG6212\PROG6212-Group1-2024-main\LU1_Shape_App_Dynamic_Anon_OperatorOverloading_Gr1\obj\Debug\net8.0\LU1_Shape_App_Dynamic_Anon_OperatorOverloading_Gr1.genruntimeconfig.cache
+C:\Users\user\Documents\PROG6212\PROG6212-Group1-2024-main\LU1_Shape_App_Dynamic_Anon_OperatorOverloading_Gr1\obj\Debug\net8.0\ref\LU1_Shape_App_Dynamic_Anon_OperatorOverloading_Gr1.dll
