@@ -1,0 +1,14 @@
+C:\Users\user\Documents\PROG6212\PROG6212-Group1-2024-main\Multithreading\threadingApp\threadingApp\bin\Debug\net8.0\threadingApp.exe
+C:\Users\user\Documents\PROG6212\PROG6212-Group1-2024-main\Multithreading\threadingApp\threadingApp\bin\Debug\net8.0\threadingApp.deps.json
+C:\Users\user\Documents\PROG6212\PROG6212-Group1-2024-main\Multithreading\threadingApp\threadingApp\bin\Debug\net8.0\threadingApp.runtimeconfig.json
+C:\Users\user\Documents\PROG6212\PROG6212-Group1-2024-main\Multithreading\threadingApp\threadingApp\bin\Debug\net8.0\threadingApp.dll
+C:\Users\user\Documents\PROG6212\PROG6212-Group1-2024-main\Multithreading\threadingApp\threadingApp\bin\Debug\net8.0\threadingApp.pdb
+C:\Users\user\Documents\PROG6212\PROG6212-Group1-2024-main\Multithreading\threadingApp\threadingApp\obj\Debug\net8.0\threadingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\PROG6212\PROG6212-Group1-2024-main\Multithreading\threadingApp\threadingApp\obj\Debug\net8.0\threadingApp.AssemblyInfoInputs.cache
+C:\Users\user\Documents\PROG6212\PROG6212-Group1-2024-main\Multithreading\threadingApp\threadingApp\obj\Debug\net8.0\threadingApp.AssemblyInfo.cs
+C:\Users\user\Documents\PROG6212\PROG6212-Group1-2024-main\Multithreading\threadingApp\threadingApp\obj\Debug\net8.0\threadingApp.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\PROG6212\PROG6212-Group1-2024-main\Multithreading\threadingApp\threadingApp\obj\Debug\net8.0\threadingApp.dll
+C:\Users\user\Documents\PROG6212\PROG6212-Group1-2024-main\Multithreading\threadingApp\threadingApp\obj\Debug\net8.0\refint\threadingApp.dll
+C:\Users\user\Documents\PROG6212\PROG6212-Group1-2024-main\Multithreading\threadingApp\threadingApp\obj\Debug\net8.0\threadingApp.pdb
+C:\Users\user\Documents\PROG6212\PROG6212-Group1-2024-main\Multithreading\threadingApp\threadingApp\obj\Debug\net8.0\threadingApp.genruntimeconfig.cache
+C:\Users\user\Documents\PROG6212\PROG6212-Group1-2024-main\Multithreading\threadingApp\threadingApp\obj\Debug\net8.0\ref\threadingApp.dll
